@@ -54,7 +54,7 @@ public class Test0226_1 {
     很少的美国人对此态度是 这是《1.唯一的》如此《2.显而易见的》原因美元《贬值》或者是商业圈的改变。
     自我怀疑已经产出《盲目自大》，美国行业结构已经改变，已经消亡，有学习越来越快灵活。
     根据Richard Cavanagh，哈佛大学的管理的《3.执行院长》，作为一个美国人我《4.自豪》的看见我们的商业改善通过生产力，Stephen说，一个华盛顿的《智囊团》
-    并且Sahlman哈佛商学院的学生相信人们将回顾这个时期：美国的一个黄金的商业管理时期。
+    并且Sahlman哈佛商学院的学生相信人们将回顾这个时期：美国的一个黄金的商业管理《时期》。
    **/
 
 
@@ -76,7 +76,7 @@ public class Test0226_1 {
       [A]It is human nature《人类本性》 to shift between self-doubt and blind pride《自豪》.
       [B]Intense《激烈》 competition may contribute to economic progress .
       [C]The revival of the economy depends on international cooperation .
-      [D]A long history of success may pave the way for further development.
+      [D]A long history of success may pave the way for further《进一步》 development.
 
       14.The author seems to believe the revival of the U.S. economy in the 1990s can be attributed to the	.
       [A]turning of the business cycle
