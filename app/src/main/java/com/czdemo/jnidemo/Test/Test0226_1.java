@@ -85,25 +85,6 @@ public class Test0226_1 {
       [D]success in education
       ***/
 
-    private void showAlertDialog2() {
-        AlertDialog.Builder builder = new AlertDialog.Builder(null);
-        builder.setTitle("提示");
-        builder.setMessage("确定要关闭音乐播放？");
-        builder.setNegativeButton("确定", new DialogInterface.OnClickListener() {
-            @Override
-            public void onClick(DialogInterface dialog, int which) {
-            }
-        });
-        builder.setNeutralButton("后台播放", new DialogInterface.OnClickListener() {
-            @Override
-            public void onClick(DialogInterface dialog, int which) {
-                // 既然是后台播放，就是要把当前Activity切换到后台
-            }
-        });
-        builder.setPositiveButton("取消", null);
-        AlertDialog dialog = builder.create();
-        dialog.show();
-    }
 
 
     public static void main(String args[]) {
