@@ -1,7 +1,5 @@
 package com.czdemo.jnidemo.Test;
 
-import android.app.AlertDialog;
-import android.content.DialogInterface;
 
 public class Test0226_0 {
 
@@ -67,7 +65,7 @@ public class Test0226_0 {
      * 人们不能《5.充分》《4.坦白》他们的梦想，就像以前一样轻松和公开，
      * 《6.以免》被人认为是在逼迫别人，贪婪和《7.低俗》。事实上，我们《8.治疗,对待》宏大的虚伪《9.场面》
      * 现在视乎比任何时候都《丰富》《补给》：美国《10.唯物主义》批判南岸普大学的别墅。
-     * 激进书籍的出版社却在在三星餐厅吃《三餐》。记者倡导无《12.参与》民主在所有的生活阶段，
+     * 激进书籍的出版社却在在三星餐厅吃《三餐》。记者《11.倡导》无《12.参与》民主在所有的生活阶段，
      * 属于他们的孩纸却《入学》到私立学校。如此多这样的人《也许》不是《例外》
      * 这可以《恰当》的《表述》：不惜一切代价成功但是避免出现雄心
      ***/
@@ -100,7 +98,7 @@ public class Test0226_0 {
      **/
 
      /***
-      *28.The last sentence<句子> of the first paragraph most probably implies that it is_。
+      *28.The last sentence《句子》 of the first paragraph most probably implies that it is_。
       [A]customary《通常的》 of the educated to discard《抛弃abandon》 ambition in words
       [B]too late to check ambition once it has been let out
       [C]dishonest to deny ambition after the fulfillment《满足》 of the goal
