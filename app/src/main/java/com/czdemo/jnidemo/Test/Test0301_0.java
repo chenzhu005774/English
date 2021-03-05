@@ -39,7 +39,7 @@ public class Test0301_0 {
      **/
 
     /**  This, in 《1.brief》 ,is what the Futurist says: for a century, past 《2.conditions》 of life have been conditionally speeding up,
-     till now we live in a world of noise and 《4.violence》 and speed. Consequently, our feelings, thoughts and 《emotions》
+     《3.till》 now we live in a world of noise and 《4.violence》 and speed. Consequently, our feelings, thoughts and 《emotions》
      have 《undergone;experience》 a 《5.corresponding》 change. This speeding up of life, says the Futurist, requires a new form of 《6.expression》.
      We must speed up our literature too, if we want to interpret modem stress. We must pour out a large stream of essential words,
      《7.unhampered;hinder》 by stops, or qualifying adjectives, or finite verbs. Instead of describing sounds we must make up words that imitate them;
@@ -52,12 +52,12 @@ public class Test0301_0 {
      我们必须在同一页使用许多不同类型和大写的彩色墨水，或短或长的单词。
      **/
 
-      /**  Certainly their descriptions of 《battles；war》 are 《1.confused》. But it is a little upsetting to read in the 《2.explanatory》 notes
+      /**  Certainly their descriptions of 《battles；war》 are 《1.confused;refuse》. But it is a little upsetting to read in the 《2.explanatory》 notes
      that a certain line describes a fight between a Turkish and a Bulgarian officer on a bridge off which they
      both fall into the river—and then to find that the line consists of the noise of their falling and the weights of the officers:
      “ Pluff! Pluff! A hundred and eighty-five kilograms."
 
-       当然，他们对《战争,将军;战争》描述是《混乱的》.但是有些沮丧的在读到《说明》笔记，
+       当然，他们对《战争,将军;战争》描述是《混乱的；拒绝》.但是有些沮丧的在读到《说明》笔记，
       那确实是一行诗描述土耳其和保加利亚的官员在一座桥上，这句诗有噪音和他们官员体重组成：
        普通普通 一个100kg一个85KG.
 

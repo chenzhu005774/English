@@ -20,28 +20,28 @@ public class Test0301_1 {
   are already questioning the heavy personal sacrifices involved in 《1.climbing》 Japan1 s rigid social ladder to good schools and jobs.
   In a recent survey, it was found that only 24.5 percent of Japanese students were fully satisfied with school life,
   compared with 67.2 percent of students in the United States. In addition, far more Japanese workers 《expressed》  dissatisfaction with their jobs
-  than did their 《2.counterparts》 in the 10 other countries 《3.surveyed》.
+  than did their 《2.counterparts》 in the 10 other countries 《3.surveyed;survival》.
   战后婴儿激增并且进入女人替代男人主导的工作的市场几乎没有机会给年轻人了
   庞大的人口问题他们已经牺牲关于他们自己的《1.攀升》到日本社会和在好的学校和工作上，
   相较于美国，这一比例在67.2%，此外，越来越多的日本人《表达；快递》不满对他们的工作。
-  比其他《3.被调查》的10个国家《2.同行》。
+  比其他《3.被调查;存活》的10个国家《2.同行》。
      **/
 
-    /**    While often 《1.praised》 by foreigners for its emphasis on the basics, Japanese education tends to stress test taking and mechanical
+    /**    While often 《1.praised；admire》 by foreigners for its emphasis on the basics, Japanese education tends to stress test taking and mechanical
   learning over creativity and self-expression. "Those things that do not show up in the test scores―personality, ability,
   《courage》 or humanity—are completely ignored,says Toshiki Kaifii, chairman of the ruling Liberal Democratic Party's education
   committee . "《4.Frustration》 against this kind of thing leads kids to 《drop out》 and run wild. " Last year Japan experienced 2,125 《5.incidents》
   of school 《6.violence》, including 929 assaults on teachers. Amid the 《outcry》, many 《7.conservative》 leaders are seeking a return to the prewar
   emphasis on moral education. Last year Mitsuo Setoyama, who was then education 《8.minister》, raised eyebrows when he argued that liberal
-  reforms introduced by the American occupation authorities after World War II had 《9.weakened》 the "Japanese morality of respect for parents .”
+  reforms introduced by the American 《occupation;professional authorities》 after World War II had 《9.weakened》 the "Japanese morality of respect for parents .”
   虽然经常被外国人《1.称赞》重视基础，日本教育倾向于加强测试和
   机械学习超过创造性和自我表达。分数没有展示出来的事情是-个性，能力
   《2.勇气》 或者是人性-都被《3.完全》的忽略了。Toshiki Kaifii说到，教育委员会主席
     ， 《4.挫败》拒绝了孩子《脱节》自由成长的这类天性。
-   去年学校经历了2125件《5.事件> 关于学校《6.暴力》的，
+   去年学校经历了2125件《5.事件；事变> 关于学校《6.暴力》的，
    包括929件《7.攻击》老师的。在一片《喊叫；抗议》中，许多《7.保守党》领导人 正在寻求返回战前的
    道德教育.去年Mitsuo Setoyama 教育《部长》，
-   《语出惊人》的是，他争论的改革引进的通过美国职业权威 二战后《9.削弱》了 "日本尊敬父母的道德"。
+   《语出惊人》的是，他争论的改革引进的通过美国《职业权威》 二战后《9.削弱》了 "日本尊敬父母的道德"。
 
      **/
     /**   But that may have more to do with Japanese life-styles.  "In Japan",' says educator Yoko Muro, "it's never a question of whether
@@ -61,7 +61,7 @@ public class Test0301_1 {
   23.In the Westerners, eyes, the postwar Japan was	.
   [A]under aimless development
   [B]a positive example
-  [C]a rival《竞争对手》 to the West
+  [C]a rival;competition《竞争对手》 to the West
   [D]on the decline
      **/
     /**
@@ -77,7 +77,7 @@ public class Test0301_1 {
   [C]More stress should be placed on the cultivation of creativity《应该越来越重视培养创造》 .
   [D]Dropping out leads to frustration against《反对》 test taking .
 
-  26.The change in Japanese life-style is revealed in the fact that	.
+  26.The change in Japanese life-style is <revealed;rival 表明;竞争对手》 in the fact that	.
   [A]the young are less tolerant《容忍》 of discomforts in life
   [B]the divorce rate in Japan exceeds that in the U.S。
   [C]the Japanese endure《忍耐》 more than ever before

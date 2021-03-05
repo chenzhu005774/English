@@ -35,7 +35,7 @@ public class Test0226_0 {
     /**
      *     If ambition is to be well <1.regarded>, the rewards of ambition—wealth, <2.distinction>, control over one's
      * destiny—must be <3.deemed> worthy of the <4.sacrifices> made on ambition's behalf If the tradition of ambition is to have vitality,
-     * it must be widely shared; and it especially must be highly regarded by people who are themselves admired,
+     * it must be 《widely》 shared; and it especially must be highly regarded by people who are themselves admired,
      * 《the educated not least among them》. In an 《5.odd》 way, however, it is the educated who have claimed to have given up on ambition as an ideal.
      * What is odd is that they have 《6.perhaps》 most benefited from ambition—if not always their own then that of their parents and grandparents・
      * There is a heavy note of 《7.hypocrisy》 in this, a case of closing the 《8.bam》 door after the horses have escaped—with the
@@ -43,7 +43,7 @@ public class Test0226_0 {
      *
      * 假如雄心的到<1尊敬>。雄心的回报是-财富，<2荣誉>，控制某人的命运-
      * 假如传统的雄心是有活力的就必须<3认同>有价值的<4牺牲>的利益，
-     * 雄心必须是广泛的分享，尤其是被他们自己羡慕的人的高度尊敬。
+     * 雄心必须是《广泛》的分享，尤其是被他们自己羡慕的人的高度尊敬。
      * 《受过教育的人在他们其中并不少》。然而《5.奇怪》的是，受过教育的人宣称他们放弃雄心作为理想。
      * 奇怪的是他们受过教育的人《6.也许》最有利来自雄心-假如不总是属于他们那么就是他们的父母和祖父母
      * 这儿有个非常《7.虚伪》的注意在这里，关上《8.欺骗》门后像马一样逃离-
@@ -58,7 +58,7 @@ public class Test0226_0 {
      * which now more than ever seem in ample supply: the critic of American 《10.materialism》 with a Southampton summer home;
      * the publisher of radical books who takes his 《meals》 in three-star restaurants; the journalist 《11.advocating》 《12.participatory》 democracy
      * in all phases of life, whose own children are 《enrolled》 in private schools. For such people and many more perhaps not so exceptional,
-     * the proper formulation is," Succeed at all costs but avoid appearing ambitious."
+     * the 《proper》 《formulation》 is," Succeed at all costs but avoid appearing ambitious."
      *
      * 当然，现在人们似乎看起来对成功的兴趣不亚于《1.以前》。Summer 别墅，欧洲旅行
      * 宝马车-他们的定位，地点名或者《2.名牌》名也许会改变，但是这些项目不会少在今天的《3.需求》比十年或者2年前。
@@ -78,20 +78,20 @@ public class Test0226_0 {
      * This does not mean that ambition is at an end, that people no longer feel its 《6.stirrings》 and 《7.promptings》, but only that,
      * no longer openly honored, it is less openly professed. Consequences follow from this, of course,
      * some of which are that ambition is driven underground, or made sly. Such, then, is the way things stand: on the left angry critics,
-     * on the right stupid supporters, and in the middle, as usual, the majority of earnest people trying to get on in life.
+     * on the right stupid supporters, and in the middle, as usual, the majority of 《earnest》 people trying to get on in life.
      *
      *
      * 有许多来自《2.各个角度》的《1.攻击》在雄心上；这些公开抵抗的很少并且不是给人很深的印象，
-     * 当这些不是极其的《4.不受关注》。结果就是，支持雄心成为一个健康的《冲动》。
+     * 当这些不是《3.极其》的《4.不受关注》。结果就是，支持雄心成为一个健康的《冲动》。
      * 一个令人称赞的品质《5.牢牢》的在年轻人心里。这种品质大概是低于美国每个人（平均水平）。
      * 这不意味着雄心结束了，人们再也感觉不到雄心的《6.萌芽》和《7.激情》，单仅仅是那样，
      * 一些雄心被驱使到地下了（隐藏起来了），或者变得狡猾，情况是这样的：左边是愤怒的评判者，
-     * 右边是忠实的支持者，在这中间大部分主要认真的人尝试在生活中获取的人。
+     * 右边是忠实的支持者，在这中间大部分主要《认真》的人尝试在生活中获取的人。
      * */
 
     /**
      *27.It is generally believed that ambition may be well regarded if_。
-     [A]its returns well compensate for the sacrifices
+     [A]its returns well compensate《补偿》 for the sacrifices
      [B]it is rewarded with money, fame and power
      [C]its goals are spiritual<精神上的> rather than material《物质》
      [D]it is shared by the rich and the famous
